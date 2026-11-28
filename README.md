@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_contrastive_siglip)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_Contrastive_SigLIP
 
 **SigLIP sigmoid pre-training on Crop36-Text and COCO - convergence study (PAI-SG Multimodal Wave 1)**
